@@ -1,0 +1,5 @@
+mmh3
+nltk
+numpy
+pandas
+tqdm
