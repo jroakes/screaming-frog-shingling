@@ -9,6 +9,7 @@ Uses Screaming Frog Internal HTML with text extraction along with a shingling al
 ![Screaming Frog Extraction](https://raw.githubusercontent.com/jroakes/screaming-frog-shingling/master/sf_extraction.png "Screaming Frog Extraction Example")
 
 1. Export the internal HTML to a CSV file.
+![Export Internal HTML](https://raw.githubusercontent.com/jroakes/screaming-frog-shingling/master/internal_html.png "Screaming Frog Internal HTML Export)
 
 1. Run the script using the following arguments.
 
